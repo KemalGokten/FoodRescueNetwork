@@ -1,12 +1,20 @@
 {
-	"users": [
-		{
-			"id": 1,
-			"accountType":"user",
-			"fullName": "Josh John",
-			"email": "josh@gmail.com",
-			"userName": "john",
-			"password": "abc123"
-		}
-	]
+  "users": [
+    {
+      "id": 1,
+      "accountType": "user",
+      "fullName": "Josh John",
+      "email": "josh@gmail.com",
+      "userName": "john",
+      "password": "abc123"
+    },
+    {
+      "password": "kemal123",
+      "id": 2,
+      "accountType": "user",
+      "fullName": "kemal",
+      "email": "kemal05saw6@gmail.com",
+      "userName": "kemal"
+    }
+  ]
 }
