@@ -15,6 +15,133 @@
       "fullName": "kemal",
       "email": "kemal05saw6@gmail.com",
       "userName": "kemal"
+    },
+    {
+      "accountType": "User",
+      "email": "saeideh.bahadoran@gmail.com",
+      "fullName": "Saeideh Bahadoran",
+      "userName": "Saeideh",
+      "password": "123abc",
+      "id": 3
+    },
+    {
+      "accountType": "Restaurant Owner",
+      "email": "tesstfdsfls fsaldflasd f",
+      "fullName": "test",
+      "userName": "test",
+      "password": "testaedsf",
+      "id": 4
+    },
+    {
+      "accountType": "User",
+      "email": "saeideh.bahadoran@gmail.com",
+      "fullName": "ss",
+      "userName": "dxyc",
+      "password": "1234567",
+      "id": 5
+    }
+  ],
+
+  "restaurants": [
+    {
+      "restaurantName": "McDonald's",
+      "rating": 4.0,
+      "address": {
+        "country": "Deutschland",
+        "city": "Berlin",
+        "street": "Tempelhofer Damm",
+        "houseNumber": "227",
+        "postalCode": "12099"
+      },
+      "price": "15.35",
+      "discountPrice": "10.50",
+      "collectTime": {
+        "startTime": "18:30",
+        "endTime": "20:30"
+      },
+      "date": {
+        "today": true,
+        "tomorrow": false
+      },
+      "description": "Burger",
+      "foods": ["Pizza", "Burger"],
+      "id": 1
+    },
+
+    {
+      "logoUrl": " LOGO_URL_HERE ",
+      "restaurantName": "Example Pizza",
+      "rating": 4.5,
+      "address": {
+        "country": "Deutschland",
+        "city": "Berlin",
+        "street": "Unter den Linden",
+        "houseNumber": "34",
+        "postalCode": "10117"
+      },
+      "price": "22.00",
+      "discountPrice": "18.70",
+      "collectTime": {
+        "startTime": "11:00",
+        "endTime": "23:00"
+      },
+      "date": {
+        "today": true,
+        "tomorrow": true
+      },
+      "description": "Italian, Pizza",
+      "foods": ["Pizza", "Pasta", "Salads"],
+      "id": 2
+    },
+    {
+      "logoUrl": " LOGO_URL_HERE ",
+      "restaurantName": "Asian Delight",
+      "rating": 4.2,
+      "address": {
+        "country": "Deutschland",
+        "city": "Berlin",
+        "street": "Prenzlauer Berg",
+        "houseNumber": "121",
+        "postalCode": "10437"
+      },
+      "price": "18.99",
+      "discountPrice": "15.50",
+      "collectTime": {
+        "startTime": "12:00",
+        "endTime": "22:30"
+      },
+      "date": {
+        "today": true,
+        "tomorrow": true
+      },
+      "description": "Asian",
+      "foods": ["Noodles", "Curries", "Stir-fry"],
+      "id": 3
+    },
+    {
+      "logoUrl": " LOGO_URL_HERE ",
+      "restaurantName": "Cafe Sunshine",
+      "rating": 4.8,
+      "address": {
+        "country": "Deutschland",
+        "city": "Berlin",
+        "street": "Friedrichstraße",
+        "houseNumber": "100",
+        "postalCode": "10117"
+      },
+      "price": "12.50",
+      "discountPrice": "10.00",
+      "collectTime": {
+        "startTime": "08:00",
+        "endTime": "18:00"
+      },
+      "date": {
+        "today": true,
+        "tomorrow": true
+      },
+      "description": "Coffee, Bakery",
+      "foods": ["Coffee", "Sandwiches", "Pastries"],
+      "id": 4
     }
   ]
 }
