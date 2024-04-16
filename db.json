@@ -44,6 +44,8 @@
 
   "restaurants": [
     {
+      "logoUrl": " LOGO_URL_HERE ",
+      "foodImg": "FOOD_IMG_HERE",
       "restaurantName": "McDonald's",
       "rating": 4.0,
       "address": {
@@ -70,6 +72,7 @@
 
     {
       "logoUrl": " LOGO_URL_HERE ",
+      "foodImg": "FOOD_IMG_HERE",
       "restaurantName": "Example Pizza",
       "rating": 4.5,
       "address": {
@@ -95,6 +98,7 @@
     },
     {
       "logoUrl": " LOGO_URL_HERE ",
+      "foodImg": "FOOD_IMG_HERE",
       "restaurantName": "Asian Delight",
       "rating": 4.2,
       "address": {
@@ -120,6 +124,7 @@
     },
     {
       "logoUrl": " LOGO_URL_HERE ",
+      "foodImg": "FOOD_IMG_HERE",
       "restaurantName": "Cafe Sunshine",
       "rating": 4.8,
       "address": {
