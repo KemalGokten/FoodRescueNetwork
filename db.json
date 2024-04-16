@@ -44,8 +44,8 @@
 
   "restaurants": [
     {
-      "logoUrl": " LOGO_URL_HERE ",
-      "foodImg": "FOOD_IMG_HERE",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
+      "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
       "restaurantName": "McDonald's",
       "rating": 4.0,
       "address": {
@@ -71,8 +71,8 @@
     },
 
     {
-      "logoUrl": " LOGO_URL_HERE ",
-      "foodImg": "FOOD_IMG_HERE",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
+      "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
       "restaurantName": "Example Pizza",
       "rating": 4.5,
       "address": {
@@ -97,8 +97,8 @@
       "id": 2
     },
     {
-      "logoUrl": " LOGO_URL_HERE ",
-      "foodImg": "FOOD_IMG_HERE",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
+      "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
       "restaurantName": "Asian Delight",
       "rating": 4.2,
       "address": {
@@ -123,8 +123,8 @@
       "id": 3
     },
     {
-      "logoUrl": " LOGO_URL_HERE ",
-      "foodImg": "FOOD_IMG_HERE",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
+      "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
       "restaurantName": "Cafe Sunshine",
       "rating": 4.8,
       "address": {
