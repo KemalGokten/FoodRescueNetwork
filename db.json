@@ -9,10 +9,10 @@
       "password": "abc123"
     },
     {
-      "password": "kemal123",
+      "password": "kal123emkkk",
       "id": 2,
       "accountType": "user",
-      "fullName": "kemal",
+      "fullName": "kemalglkm",
       "email": "kemal05saw6@gmail.com",
       "userName": "kemal"
     },
@@ -41,13 +41,12 @@
       "id": 5
     }
   ],
-
   "restaurants": [
     {
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
       "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
       "restaurantName": "McDonald's",
-      "rating": 4.0,
+      "rating": 4,
       "address": {
         "country": "Deutschland",
         "city": "Berlin",
@@ -69,7 +68,6 @@
       "foods": ["Pizza", "Burger"],
       "id": 1
     },
-
     {
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
       "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
@@ -147,6 +145,25 @@
       "description": "Coffee, Bakery",
       "foods": ["Coffee", "Sandwiches", "Pastries"],
       "id": 4
+    }
+  ],
+  "userOrders": [
+    {
+      "userId": 2,
+      "previousOrders": [
+        {
+          "restaurantName": "McDonald's",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
+          "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
+          "restaurantId": 1
+        },
+        {
+          "restaurantName": "Cafe Sunshine",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
+          "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
+          "restaurantId": 4
+        }
+      ]
     }
   ]
 }
