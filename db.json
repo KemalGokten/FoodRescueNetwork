@@ -21,7 +21,7 @@
       "email": "saeideh.bahadoran@gmail.com",
       "fullName": "Saeideh Bahadoran",
       "userName": "Saeideh",
-      "password": "123abc",
+      "password": "sa12345",
       "id": 3
     },
     {
@@ -52,7 +52,7 @@
   "restaurants": [
     {
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
-      "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
+      "foodImg": "https://www.mcdonalds.com/content/dam/sites/de/nfl/feature-callout/20230720_McDelivery_Teaser_FeatureCallout_BestBurger_1148x498.jpg",
       "restaurantName": "McDonald's",
       "rating": 4,
       "address": {
@@ -73,15 +73,12 @@
         "tomorrow": false
       },
       "description": "Burger",
-      "foods": [
-        "Pizza",
-        "Burger"
-      ],
+      "foods": ["Pizza", "Burger"],
       "id": 1
     },
     {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
-      "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
+      "logoUrl": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30151557/1516.png",
+      "foodImg": "https://www.refrigeratedfrozenfood.com/ext/resources/NEW_RD_Website/DefaultImages/default-pasta.jpg?1430942591",
       "restaurantName": "Example Pizza",
       "rating": 4.5,
       "address": {
@@ -102,16 +99,12 @@
         "tomorrow": true
       },
       "description": "Italian, Pizza",
-      "foods": [
-        "Pizza",
-        "Pasta",
-        "Salads"
-      ],
+      "foods": ["Pizza", "Pasta", "Salads"],
       "id": 2
     },
     {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
-      "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
+      "logoUrl": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30151603/1715.png",
+      "foodImg": "https://www.cnet.com/a/img/resize/69256d2623afcbaa911f08edc45fb2d3f6a8e172/hub/2023/02/03/afedd3ee-671d-4189-bf39-4f312248fb27/gettyimages-1042132904.jpg?auto=webp&fit=crop&height=675&width=1200",
       "restaurantName": "Asian Delight",
       "rating": 4.2,
       "address": {
@@ -132,16 +125,12 @@
         "tomorrow": true
       },
       "description": "Asian",
-      "foods": [
-        "Noodles",
-        "Curries",
-        "Stir-fry"
-      ],
+      "foods": ["Noodles", "Curries", "Stir-fry"],
       "id": 3
     },
     {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
-      "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
+      "logoUrl": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30151606/1816.png",
+      "foodImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZTC4j2U8ngG3QdOyjYSRAn3Id_wTqqpZC7HsQAUA1OQ&s",
       "restaurantName": "Cafe Sunshine",
       "rating": 4.8,
       "address": {
@@ -162,12 +151,164 @@
         "tomorrow": true
       },
       "description": "Coffee, Bakery",
-      "foods": [
-        "Coffee",
-        "Sandwiches",
-        "Pastries"
-      ],
+      "foods": ["Coffee", "Sandwiches", "Pastries"],
       "id": 4
+    },
+    {
+      "logoUrl": "https://cdn.textstudio.com/output/studio/template/preview/stamped/j/a/w/2/4i82waj.webp",
+      "foodImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrPCnpPAIo6oiRJw1z1D5TaeFpmLWoWB93w&s",
+      "restaurantName": "Pastaria",
+      "rating": 4.7,
+      "address": {
+        "country": "Deutschland",
+        "city": "Berlin",
+        "street": "Friedrichstraße",
+        "houseNumber": "60",
+        "postalCode": "17897"
+      },
+      "price": "18.50",
+      "discountPrice": "11.30",
+      "collectTime": {
+        "startTime": "09:00",
+        "endTime": "19:00"
+      },
+      "date": {
+        "today": true,
+        "tomorrow": true
+      },
+      "description": "Pasta and Sandwiches",
+      "foods": ["Pasta", "Sandwiches"],
+      "id": 5
+    },
+    {
+      "logoUrl": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30151606/1816.png",
+      "foodImg": "https://ucarecdn.com/898c16ce-7ee8-4776-8f14-4ba77dcf5b17/-/format/auto/-/preview/3000x3000/-/quality/lighter/Burger_selber_machen_rezept.jpg",
+      "restaurantName": "MasterBurger ",
+      "rating": 3.5,
+      "address": {
+        "country": "Deutschland",
+        "city": "Hamburg",
+        "street": "Alexsander",
+        "houseNumber": "80",
+        "postalCode": "13113"
+      },
+      "price": "25.50",
+      "discountPrice": "13.70",
+      "collectTime": {
+        "startTime": "11:00",
+        "endTime": "23:00"
+      },
+      "date": {
+        "today": false,
+        "tomorrow": true
+      },
+      "description": "The Best Burger in the world",
+      "foods": ["Burger"],
+      "id": 6
+    },
+    {
+      "logoUrl": "https://static.vecteezy.com/system/resources/previews/009/361/083/original/restaurant-logo-design-free-file-free-vector.jpg",
+      "foodImg": "https://www.comunicaffe.com/wp-content/uploads/2020/11/Borsalia_coffee_house_and_pastries.jpg",
+      "restaurantName": "Bekerei",
+      "rating": 4.1,
+      "address": {
+        "country": "Deutschland",
+        "city": "Berlin",
+        "street": "Friedrichstraße",
+        "houseNumber": "17",
+        "postalCode": "1667"
+      },
+      "price": "10.50",
+      "discountPrice": "3.00",
+      "collectTime": {
+        "startTime": "15:00",
+        "endTime": "18:00"
+      },
+      "date": {
+        "today": true,
+        "tomorrow": true
+      },
+      "description": "Coffee, Bakery",
+      "foods": ["Coffee", "Pastries"],
+      "id": 7
+    },
+    {
+      "logoUrl": "https://i.ytimg.com/vi/E5pPNBkSCIo/sddefault.jpg",
+      "foodImg": "https://www.ebbing-tm.de/fileadmin/_processed_/3/0/csm_pizza-rucola16_ff4846cc2d.jpeg",
+      "restaurantName": "Italiena",
+      "rating": 3.8,
+      "address": {
+        "country": "Deutschland",
+        "city": "Berlin",
+        "street": "RodowerStrasse",
+        "houseNumber": "11",
+        "postalCode": "12217"
+      },
+      "price": "18.50",
+      "discountPrice": "12.00",
+      "collectTime": {
+        "startTime": "10:00",
+        "endTime": "20:00"
+      },
+      "date": {
+        "today": true,
+        "tomorrow": false
+      },
+      "description": "Just Pizza",
+      "foods": ["Pizza"],
+      "id": 8
+    },
+    {
+      "logoUrl": "https://graphicsfamily.com/wp-content/uploads/2020/10/Restaurant-logo-design-free-template-scaled.jpg",
+      "foodImg": "https://rila.de/media/weedesign_images2webp/2000/butternut-nudeln.webp",
+      "restaurantName": "Your best",
+      "rating": 3.5,
+      "address": {
+        "country": "Deutschland",
+        "city": "Berlin",
+        "street": "Ortolfs",
+        "houseNumber": "20",
+        "postalCode": "10337"
+      },
+      "price": "6.00",
+      "discountPrice": "4.50",
+      "collectTime": {
+        "startTime": "15:00",
+        "endTime": "18:00"
+      },
+      "date": {
+        "today": true,
+        "tomorrow": true
+      },
+      "description": "Take away",
+      "foods": ["Salads", "Sandwiches", "Noodles"],
+      "id": 9
+    },
+    {
+      "logoUrl": "https://designshifu.com/wp-content/uploads/2022/11/Choose-brand-colors-2048x1024.jpg",
+      "foodImg": "https://ais.kochbar.de/kbrezept/165190_1137874/640x480/rucola-pizza-rezept-bild-nr-2.jpg",
+      "restaurantName": "Pizzaria",
+      "rating": 4.3,
+      "address": {
+        "country": "Deutschland",
+        "city": "Hamburg",
+        "street": "Friedrichstraße",
+        "houseNumber": "34",
+        "postalCode": "11117"
+      },
+      "price": "17.50",
+      "discountPrice": "11.50",
+      "collectTime": {
+        "startTime": "09:00",
+        "endTime": "22:00"
+      },
+      "date": {
+        "today": false,
+        "tomorrow": true
+      },
+      "description": "Pizza, Noodles, Pastries",
+      "foods": ["Pizza", "Noodles", "Pastries"],
+      "id": 10
     }
   ],
   "userOrders": [
@@ -177,13 +318,13 @@
         {
           "restaurantName": "McDonald's",
           "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
-          "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
+          "foodImg": "https://www.mcdonalds.com/content/dam/sites/de/nfl/feature-callout/20230720_McDelivery_Teaser_FeatureCallout_BestBurger_1148x498.jpg",
           "restaurantId": 1
         },
         {
           "restaurantName": "Cafe Sunshine",
-          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
-          "foodImg": "https://p7.hiclipart.com/preview/366/949/90/hamburger-mcdonalds-big-mac-restaurant-fast-food-mcdonalds-png-image.jpg",
+          "logoUrl": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30151606/1816.png",
+          "foodImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZTC4j2U8ngG3QdOyjYSRAn3Id_wTqqpZC7HsQAUA1OQ&s",
           "restaurantId": 4
         }
       ]
@@ -192,19 +333,12 @@
   "userFavorites": [
     {
       "userId": 2,
-      "favoriteRestaurants": [
-        1,
-        3,
-        2
-      ],
+      "favoriteRestaurants": [1, 3, 2],
       "id": 1
     },
     {
       "userId": 6,
-      "favoriteRestaurants": [
-        3,
-        2
-      ],
+      "favoriteRestaurants": [3, 2],
       "id": 2
     }
   ]
