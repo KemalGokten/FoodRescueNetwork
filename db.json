@@ -39,6 +39,14 @@
       "userName": "dxyc",
       "password": "1234567",
       "id": 5
+    },
+    {
+      "accountType": "User",
+      "email": "test123@gmail.com",
+      "fullName": "test",
+      "userName": "test",
+      "password": "test123",
+      "id": 6
     }
   ],
   "restaurants": [
@@ -65,7 +73,10 @@
         "tomorrow": false
       },
       "description": "Burger",
-      "foods": ["Pizza", "Burger"],
+      "foods": [
+        "Pizza",
+        "Burger"
+      ],
       "id": 1
     },
     {
@@ -91,7 +102,11 @@
         "tomorrow": true
       },
       "description": "Italian, Pizza",
-      "foods": ["Pizza", "Pasta", "Salads"],
+      "foods": [
+        "Pizza",
+        "Pasta",
+        "Salads"
+      ],
       "id": 2
     },
     {
@@ -117,7 +132,11 @@
         "tomorrow": true
       },
       "description": "Asian",
-      "foods": ["Noodles", "Curries", "Stir-fry"],
+      "foods": [
+        "Noodles",
+        "Curries",
+        "Stir-fry"
+      ],
       "id": 3
     },
     {
@@ -143,7 +162,11 @@
         "tomorrow": true
       },
       "description": "Coffee, Bakery",
-      "foods": ["Coffee", "Sandwiches", "Pastries"],
+      "foods": [
+        "Coffee",
+        "Sandwiches",
+        "Pastries"
+      ],
       "id": 4
     }
   ],
@@ -164,6 +187,25 @@
           "restaurantId": 4
         }
       ]
+    }
+  ],
+  "userFavorites": [
+    {
+      "userId": 2,
+      "favoriteRestaurants": [
+        1,
+        3,
+        2
+      ],
+      "id": 1
+    },
+    {
+      "userId": 6,
+      "favoriteRestaurants": [
+        3,
+        2
+      ],
+      "id": 2
     }
   ]
 }
