@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "accountType": "user",
+      "accountType": "User",
       "fullName": "Josh John",
       "email": "josh@gmail.com",
       "userName": "john",
@@ -11,7 +11,7 @@
     {
       "password": "kal123emkkk",
       "id": 2,
-      "accountType": "user",
+      "accountType": "User",
       "fullName": "kemalglkm",
       "email": "kemal05saw6@gmail.com",
       "userName": "kemal"
