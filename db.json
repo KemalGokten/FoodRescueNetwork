@@ -1,44 +1,12 @@
 {
   "users": [
     {
-      "id": 1,
-      "accountType": "User",
-      "fullName": "Josh John",
-      "email": "josh@gmail.com",
-      "userName": "john",
-      "password": "abc123"
-    },
-    {
-      "password": "kal123emkkk",
+      "password": "kem123",
       "id": 2,
       "accountType": "User",
       "fullName": "kemal",
       "email": "kemal05saw6@gmail.com",
       "userName": "kemal"
-    },
-    {
-      "accountType": "User",
-      "email": "saeideh.bahadoran@gmail.com",
-      "fullName": "Saeideh Bahadoran",
-      "userName": "Saeideh",
-      "password": "sa12345",
-      "id": 3
-    },
-    {
-      "accountType": "Restaurant Owner",
-      "email": "tesstfdsfls fsaldflasd f",
-      "fullName": "test",
-      "userName": "test",
-      "password": "testaedsf",
-      "id": 4
-    },
-    {
-      "accountType": "User",
-      "email": "saeideh.bahadoran@gmail.com",
-      "fullName": "editedtest",
-      "userName": "dxyc",
-      "password": "1234567",
-      "id": 5
     }
   ],
   "restaurants": [
@@ -318,27 +286,14 @@
           "logoUrl": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30151606/1816.png",
           "foodImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZTC4j2U8ngG3QdOyjYSRAn3Id_wTqqpZC7HsQAUA1OQ&s",
           "restaurantId": 4
-        }
-      ],
-      "id": 1
-    },
-    {
-      "userId": 5,
-      "previousOrders": [
-        {
-          "restaurantName": "McDonald's",
-          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/410px-McDonald%27s_Golden_Arches.svg.png",
-          "foodImg": "https://www.mcdonalds.com/content/dam/sites/de/nfl/feature-callout/20230720_McDelivery_Teaser_FeatureCallout_BestBurger_1148x498.jpg",
-          "restaurantId": 1
         },
         {
           "restaurantName": "Cafe Sunshine",
           "logoUrl": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30151606/1816.png",
-          "foodImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZTC4j2U8ngG3QdOyjYSRAn3Id_wTqqpZC7HsQAUA1OQ&s",
-          "restaurantId": 4
+          "foodImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZTC4j2U8ngG3QdOyjYSRAn3Id_wTqqpZC7HsQAUA1OQ&s"
         }
       ],
-      "id": 2
+      "id": 1
     }
   ],
   "userFavorites": [
@@ -346,11 +301,6 @@
       "userId": 2,
       "favoriteRestaurants": [1, 3, 2],
       "id": 1
-    },
-    {
-      "userId": 5,
-      "favoriteRestaurants": [1, 3, 2],
-      "id": 2
     }
   ]
 }
